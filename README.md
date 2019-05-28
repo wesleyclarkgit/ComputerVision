@@ -1,3 +1,3 @@
 # ComputerVision
 
-This repository uses Jupyter Notebooks.  If you are having trouble viewing them please see the following GitHub documentation:  https://github.com/jupyter/nbviewer
+This repository uses Jupyter Notebooks.  If you are having trouble viewing them please see the following GitHub documentation:  https://github.com/jupyter/nbviewer, or download them, and view them with Anaconda.
